@@ -1,0 +1,6 @@
+[submodule "backend/rocket-seat/valoriza"]
+	path = backend/rocket-seat/valoriza
+	url = https://github.com/pablobion/valoriza.git
+[submodule "frontend/rocket-seat/github-explorer"]
+	path = frontend/rocket-seat/github-explorer
+	url = https://github.com/pablobion/github-explorer.git
